@@ -36,7 +36,7 @@ Stock recommender will help investors looking in the right corners in the invest
 3. Onvista (https://www.onvista.de/)
 4. Yahoo (https://de.finance.yahoo.com/)
 5. Jitta (www.jitta.com)
-6. Others
+6. Others https://www.factiva.com/CP_Developer/ProductHelp/FDK/FDK33/shared_elements/table_exchange.htm
 7. APIs: Yfinance (start with yfinance), Pandas Datareader, investpy
 
 ## Used Modules
