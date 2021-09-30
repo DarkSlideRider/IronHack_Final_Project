@@ -39,6 +39,18 @@ Stock recommender will help investors looking in the right corners in the invest
 6. Others
 7. APIs: Yfinance (start with yfinance), Pandas Datareader, investpy
 
+## Used Modules
+
+Stock  
+``pip install -i https://pypi.anaconda.org/ranaroussi/simple yfinance``  
+``conda install -c conda-forge lxml``
+
+Get tickers  
+``conda install -c minhhg200 yahoo-ticker-downloader``  
+``pip install Yahoo-ticker-downloader``  
+``conda install -c conda-forge sqlalchemy`` 
+``conda install -c conda-forge pymysql`` 
+
 ## Obstacles
 1. Getting the needed knowledge in time to build an interface and obtain the data
 2. The huge amount of options can be a curse (libraries, APIs, web scraping, ready DB?)
