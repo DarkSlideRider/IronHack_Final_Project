@@ -43,7 +43,7 @@ https://www.factiva.com/CP_Developer/ProductHelp/FDK/FDK33/shared_elements/table
 https://www.gnucash.org/docs/v4/C/gnucash-help/fq-spec-yahoo.html
 
 For IPOs in German market  
-https://www.tradegate.de/indizes.php?index=TRADEGATE-IPOs
+https://www.tradegate.de/indizes.php?index=TRADEGATE-IPOs  
 German market  
 https://topforeignstocks.com/stock-lists/the-list-of-listed-companies-in-germany/
 https://www.deutsche-boerse-cash-market.com/dbcm-en/instruments-statistics/statistics/listes-companies
@@ -56,6 +56,9 @@ https://www.advfn.com/nyse/newyorkstockexchange.asp?companies=0
 Stock  
 ``pip install -i https://pypi.anaconda.org/ranaroussi/simple yfinance``  
 ``conda install -c conda-forge lxml``
+
+Excel  
+``conda install -c conda-forge openpyxl``
 
 Get tickers  
 ``conda install -c minhhg200 yahoo-ticker-downloader``  
