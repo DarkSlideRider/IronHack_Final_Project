@@ -42,9 +42,14 @@ Tickers
 https://www.factiva.com/CP_Developer/ProductHelp/FDK/FDK33/shared_elements/table_exchange.htm
 https://www.gnucash.org/docs/v4/C/gnucash-help/fq-spec-yahoo.html
 
-For IPOs in German market
+For IPOs in German market  
 https://www.tradegate.de/indizes.php?index=TRADEGATE-IPOs
+German market  
+https://topforeignstocks.com/stock-lists/the-list-of-listed-companies-in-germany/
+https://www.deutsche-boerse-cash-market.com/dbcm-en/instruments-statistics/statistics/listes-companies
 
+NYSE market  
+https://www.advfn.com/nyse/newyorkstockexchange.asp?companies=0
 
 ## Used Modules
 
