@@ -49,7 +49,10 @@ https://topforeignstocks.com/stock-lists/the-list-of-listed-companies-in-germany
 https://www.deutsche-boerse-cash-market.com/dbcm-en/instruments-statistics/statistics/listes-companies
 
 NYSE market  
-https://www.advfn.com/nyse/newyorkstockexchange.asp?companies=0
+https://www.advfn.com/nyse/newyorkstockexchange.asp?companies=0  
+
+Ticker S&P500  
+https://www.kaggle.com/paytonfisher/sp-500-companies-with-financial-information
 
 ## Used Modules
 
