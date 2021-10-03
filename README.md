@@ -39,13 +39,13 @@ Stock recommender will help investors looking in the right corners in the invest
 6. APIs: Yfinance (start with yfinance), Pandas Datareader, investpy
 7. Others: 
 
-Tickers
-https://www.factiva.com/CP_Developer/ProductHelp/FDK/FDK33/shared_elements/table_exchange.htm
+Tickers  
+https://www.factiva.com/CP_Developer/ProductHelp/FDK/FDK33/shared_elements/table_exchange.htm  
 https://www.gnucash.org/docs/v4/C/gnucash-help/fq-spec-yahoo.html
 
 Ticker S&P500  
-https://www.kaggle.com/paytonfisher/sp-500-companies-with-financial-information
-https://www.kaggle.com/marketahead/all-us-stocks-tickers-company-info-logos
+https://www.kaggle.com/paytonfisher/sp-500-companies-with-financial-information  
+https://www.kaggle.com/marketahead/all-us-stocks-tickers-company-info-logos  
 
 For IPOs in German market  
 https://www.tradegate.de/indizes.php?index=TRADEGATE-IPOs  
