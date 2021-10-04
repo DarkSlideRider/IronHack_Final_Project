@@ -1,0 +1,459 @@
+comp_name,symbol,stock_exchange_suffix,ticker,curr,stock_exchange_advisor,status_advisor,date_advisor,price_when_advised,source_advisor
+Kapsch TrafficCom AG,BZ6,F,BZ6.F,EUR,FRA,Kaufen,07.09.21,15.06,SA
+Durr Aktiengesellschaft,DUE,DE,DUE.DE,EUR,ETR,Kaufen,03.08.21,41.06,SA
+Exasol AG,EXL,DE,EXL.DE,EUR,ETR,Kaufen,06.07.21,18.33,SA
+CompuGroup Medical Societas Europaea,COP,DE,COP.DE,EUR,ETR,Kaufchance,08.06.21,67,SA
+NFON AG,NFN,DE,NFN.DE,EUR,ETR,Kaufen,04.05.21,17.75,SA
+Medartis,MED,SW,MED.SW,CHF,XSWX,Kaufen,06.04.21,68.3,SA
+SAP,SAP,DE,SAP.DE,EUR,ETR,Kaufchance,02.03.21,101.8,SA
+Evotec,EVT,DE,EVT.DE,EUR,ETR,Kaufen,02.02.21,32.1,SA
+Exasol AG,EXL,DE,EXL.DE,EUR,ETR,Kaufen,05.01.21,28.06,SA
+S&T AG,SANT,DE,SANT.DE,EUR,ETR,Kaufen,08.12.20,20.01,SA
+Aumann AG,AAG,DE,AAG.DE,EUR,ETR,Kaufen,03.11.20,9.85,SA
+LPKF Laser & Electronics AG,LPK,DE,LPK.DE,EUR,ETR,Kaufen,06.10.20,21.6,SA
+USU Software AG,OSP2,DE,OSP2.DE,EUR,ETR,Kaufen,08.09.20,20.87,SA
+va-Q-tec,VQT,DE,VQT.DE,EUR,ETR,Basis,04.08.20,17.2,SA
+adesso AG,ADN1,DE,ADN1.DE,EUR,ETR,Kaufen,07.07.20,57.17,SA
+SNP Schneider-Neureither & Partner SE,SHF,DE,SHF.DE,EUR,ETR,Basis,02.06.20,44.8,SA
+S&T AG,SANT,DE,SANT.DE,EUR,ETR,Kaufen,05.05.20,21.18,SA
+ATOSS Software AG,AOF,DE,AOF.DE,EUR,ETR,Basis,07.04.20,72.04,SA
+MBB SE,MBB,DE,MBB.DE,EUR,ETR,Basis,03.03.20,61.8,SA
+SNP Schneider-Neureither & Partner SE,SHF,DE,SHF.DE,EUR,ETR,Basis,04.02.20,62.5,SA
+Dr. H√∂nle AG,HNL,DE,HNL.DE,EUR,ETR,Kaufen,07.01.20,45.23,SA
+Frequentis AG,FQT,DE,FQT.DE,EUR,ETR,Kaufen,03.12.19,19.06,SA
+Fresenius SE & Co. KGaA,FRE,DE,FRE.DE,EUR,ETR,Kaufen,05.11.19,46.45,SA
+Fabasoft AG,FAA,DE,FAA.DE,EUR,ETR,Kaufen,04.10.19,21.94,SA
+Serviceware,SJJ,DE,SJJ.DE,EUR,ETR,Kaufen,06.09.19,14.6,SA
+u-blox Holding AG,UBXN,SW,UBXN.SW,CHF,XSWX,Kaufen,02.08.19,77.32,SA
+FinTech Group AG,FTK,DE,FTK.DE,EUR,ETR,Kaufchance,05.07.19,5.9,SA
+zooplus AG,ZO1,DE,ZO1.DE,EUR,ETR,Verkauft,07.06.19,,SA
+va-Q-tec,VQT,DE,VQT.DE,EUR,ETR,Basis,03.05.19,7.84,SA
+DATAGROUP,D6H,DE,D6H.DE,EUR,ETR,Kaufen,05.04.19,36.41,SA
+Software Aktiengesellschaft,SOW,DE,SOW.DE,EUR,ETR,Kaufen,08.03.19,29.69,SA
+MBB SE,MBB,DE,MBB.DE,EUR,ETR,Basis,08.02.19,76.77,SA
+Einhell Germany AG,EIN3,DE,EIN3.DE,EUR,ETR,Kaufen,04.01.19,55.65,SA
+United Internet AG,UTDI,DE,UTDI.DE,EUR,ETR,Kaufen,07.12.18,36.58,SA
+Medartis,MED,SW,MED.SW,CHF,XSWX,Kaufen,02.11.18,74.6,SA
+KION GROUP AG,KGX,DE,KGX.DE,EUR,ETR,Kaufen,05.10.18,48.12,SA
+Straumann Holding AG,STMN,SW,STMN.SW,CHF,XSWX,Kaufen,07.09.18,725.65,SA
+Aroundtown,AT1,DE,AT1.DE,EUR,ETR,Kaufen,03.08.18,6.61,SA
+HolidayCheck Group AG,HOC,DE,HOC.DE,EUR,ETR,Verkauft,06.07.18,,SA
+Eckert & Ziegler,EUZ,DE,EUZ.DE,EUR,ETR,Verkauft,08.06.18,,SA
+Palfinger AG,PFI,F,PFI.F,EUR,FRA,Kaufen,04.05.18,32.53,SA
+Zalando SE,ZAL,DE,ZAL.DE,EUR,ETR,Basis,06.04.18,44.32,SA
+V-ZUG Holding AG,VZUG,SW,VZUG.SW,CHF,XSWX,Kaufen,02.03.18,,SA
+Lenzing,LEN,F,LEN.F,EUR,FRA,Kaufen,02.02.18,91.4,SA
+Scout24,G24,DE,G24.DE,EUR,ETR,Verkauft,05.01.18,,SA
+Hella KGaA Hueck & Co.,HLE,DE,HLE.DE,EUR,ETR,Verkauft,15.12.17,,SA
+Swiss Re,SR9,F,SR9.F,EUR,FRA,Verkauft,10.11.17,,SA
+Trivago,TRVG,,TRVG,USD,NASDAQ,Verkauft,13.10.17,,SA
+Fresenius SE & Co. KGaA,FRE,DE,FRE.DE,EUR,ETR,Kaufen,15.09.17,65.3,SA
+Deutsche EuroShop AG,DEQ,DE,DEQ.DE,EUR,ETR,Verkauft,11.08.17,,SA
+ElringKlinger AG,ZIL2,DE,ZIL2.DE,EUR,ETR,Verkauft,14.07.17,,SA
+Krones AG,KRN,DE,KRN.DE,EUR,ETR,Kaufen,09.06.17,103.74,SA
+OHB SE,OHB,DE,OHB.DE,EUR,ETR,Kaufen,12.05.17,24.44,SA
+Kapsch TrafficCom AG,BZ6,F,BZ6.F,EUR,FRA,Kaufen,18.04.17,38.73,SA
+RIB Software AG,RIB,DE,RIB.F,EUR,ETR,Verkauft,10.03.17,,SA
+Bayerische Motoren Werke Aktiengesellschaft,BMW3,DE,BMW3.DE,EUR,ETR,Verkauft,10.02.17,,SA
+zooplus AG,ZO1,DE,ZO1.DE,EUR,ETR,Verkauft,13.01.17,,SA
+init innovation in traffic systems Aktiengesellschaft,IXX,DE,IXX.DE,EUR,ETR,Kaufen,09.12.16,13.88,SA
+Zalando SE,ZAL,DE,ZAL.DE,EUR,ETR,Basis,05.12.16,34.66,SA
+Intuit Inc.,INTU,,INTU,USD,NASDAQ,Kaufen,21.09.21,555.25,SA
+DocuSign,DOCU,,DOCU,USD,NASDAQ,Kaufen,17.08.21,285.58,SA
+The Toro Company,TTC,,TTC,USD,NYSE,Kaufen,20.07.21,111.97,SA
+"Upstart Holdings, Inc.",UPST,,UPST,USD,NASDAQ,Kaufen,22.06.21,119.65,SA
+Shopify Inc.,SHOP,,SHOP,USD,NYSE,Kaufchance,18.05.21,1133.36,SA
+Lam Research Corporation,LRCX,,LRCX,USD,NASDAQ,Kaufen,20.04.21,610.31,SA
+Fiverr International Ltd.,FVRR,,FVRR,USD,NYSE,Kaufen,16.03.21,236.7,SA
+"Airbnb, Inc.",ABNB,,ABNB,USD,NASDAQ,Kaufen,16.02.21,209.86,SA
+Zebra Technologies Corporation,ZBRA,,ZBRA,USD,NASDAQ,Kaufen,19.01.21,405.84,SA
+"Lemonade, Inc.",LMND,,LMND,USD,NYSE,Kaufen,22.12.20,119.08,SA
+"Autodesk, Inc.",ADSK,,ADSK,USD,NASDAQ,Kaufen,17.11.20,252.71,SA
+Bandwidth Inc.,BAND,,BAND,USD,NASDAQ,Kaufen,20.10.20,171.47,SA
+"JD.com, Inc.",JD,,JD,USD,NASDAQ,Kaufen,22.09.20,75,SA
+ASML Holding N.V.,ASML,,ASML,USD,NASDAQ,Kaufen,18.08.20,375.06,SA
+WEX Inc.,WEX,,WEX,USD,NYSE,Kaufen,21.07.20,164.66,SA
+"CrowdStrike Holdings, Inc.",CRWD,,CRWD,USD,NASDAQ,Kaufen,16.06.20,101.04,SA
+"Intuitive Surgical, Inc.",ISRG,,ISRG,USD,NASDAQ,Kaufen,19.05.20,531,SA
+The Walt Disney Company,DIS,,DIS,USD,NYSE,Kaufen,21.04.20,100.54,SA
+Invitae,NVTA,,NVTA,USD,NYSE,Kaufen,17.03.20,9.75,SA
+Luckin Coffee Inc.,LKNC.Y,,LKNC.Y,USD,OTC,Verkauft,18.02.20,,SA
+The Trade Desk,TTD,,TTD,USD,NASDAQ,Basis,21.01.20,28,SA
+"Netflix, Inc.",NFLX,,NFLX,USD,NASDAQ,Basis,17.12.19,315.48,SA
+"Square, Inc.",SQ,,SQ,USD,NYSE,Kaufen,19.11.19,66.37,SA
+Spotify,SPOT,,SPOT,USD,NYSE,Kaufen,04.10.19,116.42,SA
+"Amazon.com, Inc.",AMZN,,AMZN,USD,NASDAQ,Basis,06.09.19,1833.51,SA
+Twilio Inc.,TWLO,,TWLO,USD,NYSE,Kaufen,02.08.19,133.7,SA
+"Waste Management, Inc.",WM,,WM,USD,NYSE,Kaufen,05.07.19,111.88,SA
+"Synopsys, Inc.",SNPS,,SNPS,USD,NASDAQ,Kaufen,07.06.19,123.9,SA
+Zynga Inc.,ZNGA,,ZNGA,USD,NASDAQ,Kaufen,03.05.19,6.03,SA
+Shopify Inc.,SHOP,,SHOP,USD,NYSE,Kaufchance,05.04.19,196.65,SA
+"Nintendo Co., Ltd.",NTDOY,,NTDOY,USD,OTC,Kaufen,08.03.19,32.32,SA
+"Hawaiian Holdings, Inc.",HA,,HA,USD,NASDAQ,Kaufen,08.02.19,30.12,SA
+Zebra Technologies Corporation,ZBRA,,ZBRA,USD,NASDAQ,Kaufen,04.01.19,152.97,SA
+"iQIYI, Inc.",IQ,,IQ,USD,NASDAQ,Kaufen,07.12.18,18.52,SA
+"Tesla, Inc.",TSLA,,TSLA,USD,NASDAQ,Kaufen,02.11.18,69.28,SA
+Alphabet Inc.,GOOG,,GOOG,USD,NASDAQ,Basis,05.10.18,1157.35,SA
+Exor N.V.,EXXRF,,EXXRF,USD,OTC,Kaufen,07.09.18,63.3,SA
+"Delta Air Lines, Inc.",DAL,,DAL,USD,NYSE,Kaufen,03.08.18,52.14,SA
+"Baidu, Inc.",BIDU,,BIDU,USD,NASDAQ,Kaufen,06.07.18,251.77,SA
+Arcos Dorados Holdings Inc.,ARCO,,ARCO,USD,NYSE,Kaufen,08.06.18,6.87,SA
+SoftBank Group Corp.,SFTBF,,SFTBF,USD,OTC,Kaufen,04.05.18,39.5,SA
+"JD.com, Inc.",JD,,JD,USD,NASDAQ,Kaufen,06.04.18,39.23,SA
+Fair Isaac Corporation,FICO,,FICO,USD,NYSE,Kaufen,02.03.18,172.22,SA
+Okta,OKTA,,OKTA,USD,NASDAQ,Kaufen,02.02.18,29.3,SA
+Starbucks Corporation,SBUX,,SBUX,USD,NASDAQ,Kaufen,05.01.18,55.36,SA
+American Tower Corporation,AMT,,AMT,USD,NYSE,Kaufen,22.12.17,130.13,SA
+The Trade Desk,TTD,,TTD,USD,NASDAQ,Basis,17.11.17,5,SA
+"JD.com, Inc.",JD,,JD,USD,NASDAQ,Kaufen,20.10.17,39,SA
+"NIKE, Inc.",NKE,,NKE,USD,NYSE,Kaufen,22.09.17,51.14,SA
+"Dunkin' Brands Group, Inc.",DNKN,,DNKN,USD,NASDAQ,Verkauft,18.08.17,,SA
+"Mercadolibre, Inc.",MELI,,MELI,USD,NASDAQ,Kaufen,21.07.17,279.97,SA
+"Amazon.com, Inc.",AMZN,,AMZN,USD,NASDAQ,Basis,16.06.17,987.71,SA
+"Axos Financial, Inc.",AX,,AX,USD,NYSE,Kaufen,19.05.17,22.48,SA
+"PayPal Holdings, Inc.",PYPL,,PYPL,USD,NASDAQ,Basis,21.04.17,43.81,SA
+Crown Castle International Corp.,CCI,,CCI,USD,NYSE,Kaufen,17.03.17,76.94,SA
+American Tower Corporation,AMT,,AMT,USD,NYSE,Kaufen,17.02.17,98.54,SA
+Moody's Corporation,MCO,,MCO,USD,NYSE,Kaufen,20.01.17,96.35,SA
+Markel Corporation,MKL,,MKL,USD,NYSE,Kaufen,02.12.16,877.12,SA
+Brookfield Asset Management Inc. and Brookfield Asset Management Reinsurance Partners Ltd.,BAM,,BAM,USD,NYSE,Kaufen,02.12.16,N/A,SA
+"Under Armour, Inc.",UA,,UA,USD,NYSE,halten,02.12.16,24.77,SA
+SVB Financial Group,SIVB,,SIVB,USD,NASDAQ,Kaufen,02.09.16,111.68,SA
+BorgWarner Inc.,BWA,,BWA,USD,NYSE,Kaufen,02.09.16,32.39,SA
+Starbucks Corporation,SBUX,,SBUX,USD,NASDAQ,Kaufen,02.09.16,50.98,SA
+"Chipotle Mexican Grill, Inc.",CMG,,CMG,USD,NYSE,halten,02.06.16,443.49,SA
+"Activision Blizzard, Inc.",ATVI,,ATVI,USD,NASDAQ,Kaufen,02.06.16,37.52,SA
+"The Boston Beer Company, Inc.",SAM,,SAM,USD,NYSE,Kaufen,02.06.16,156.1,SA
+The Walt Disney Company,DIS,,DIS,USD,NYSE,Kaufen,02.03.16,91.51,SA
+"Mercadolibre, Inc.",MELI,,MELI,USD,NASDAQ,Kaufen,02.03.16,105.22,SA
+Berkshire Hathaway Inc.,BRK.B,,BRK.B,USD,NYSE,Kaufen,02.03.16,136.73,SA
+"Chipotle Mexican Grill, Inc.",CMG,,CMG,USD,NYSE,halten,02.03.16,525.69,SA
+Cummins Inc.,CMI,,CMI,USD,NYSE,halten,11.12.15,74.22,SA
+Markel Corporation,MKL,,MKL,USD,NYSE,Kaufen,11.12.15,885.1,SA
+"Proto Labs, Inc.",PRLB,,PRLB,USD,NYSE,Kaufen,11.12.15,64.22,SA
+"DermTech, Inc.",DMTK,,DMTK,USD,NASDAQ,Kaufen,13.09.21,34.71,Second_line
+Appian,APPN,,APPN,USD,NASDAQ,Basisaktie,16.08.21,96.34,Second_line
+"Nelnet, Inc.",NNI,,NNI,USD,NYSE,Aktuelle Kaufchance,12.07.21,73.85,Second_line
+"Danimer Scientific, Inc.",DNMR,,DNMR,USD,NYSE,Halten,14.06.21,22.99,Second_line
+"Fulgent Genetics, Inc.",FLGT,,FLGT,USD,NASDAQ,Kaufen,17.05.21,71.1,Second_line
+Green Dot Corporation,GDOT,,GDOT,USD,NYSE,Kaufen,12.04.21,46.15,Second_line
+"Aterian, Inc.",ATER,,ATER,USD,NASDAQ,Halten,15.03.21,31.72,Second_line
+"Fulgent Genetics, Inc.",FLGT,,FLGT,USD,NASDAQ,Kaufen,15.02.21,161.09,Second_line
+Bandwidth Inc.,BAND,,BAND,USD,NASDAQ,Kaufen,11.01.21,154.72,Second_line
+"Overstock.com, Inc.",OSTK,,OSTK,USD,NASDAQ,Aktuelle Kaufchance,14.12.20,55.85,Second_line
+"Veracyte, Inc.",VCYT,,VCYT,USD,NASDAQ,Kaufen,16.11.20,46.99,Second_line
+Cerence Inc.,CRNC,,CRNC,USD,NASDAQ,Kaufen,12.10.20,56.27,Second_line
+"AeroVironment, Inc.",AVAV,,AVAV,USD,NASDAQ,Kaufen,14.09.20,64.59,Second_line
+Endava plc,DAVA,,DAVA,USD,NYSE,Kaufen,17.08.20,55.66,Second_line
+"Paycom Software, Inc.",PAYC,,PAYC,USD,NYSE,Kaufen,13.07.20,290.25,Second_line
+"Teladoc Health, Inc.",TDOC,,TDOC,USD,NYSE,Kaufen,15.06.20,95.57,Second_line
+CRISPR Therapeutics,CRSP,,CRSP,USD,NASDAQ,Kaufen,11.05.20,61.29,Second_line
+Brookfield Infrastructure Corporation,BIPC,,BIPC,USD,NYSE,Basisaktie,13.04.20,38.21,Second_line
+Anaplan,PLAN,,PLAN,USD,NYSE,Kaufen,13.04.20,35.86,Second_line
+Globant,GLOB,,GLOB,USD,NYSE,Kaufen,16.03.20,92.55,Second_line
+Invitae,NVTA,,NVTA,USD,NYSE,Kaufen,17.02.20,27.04,Second_line
+"Etsy, Inc.",ETSY,,ETSY,USD,NASDAQ,Kaufen,13.01.20,47.96,Second_line
+"Teladoc Health, Inc.",TDOC,,TDOC,USD,NYSE,Kaufen,30.12.19,37.39,Second_line
+Kinsale Capital Group,KNSL,,KNSL,USD,NASDAQ,Kaufen,11.11.19,86.54,Second_line
+"SolarEdge Technologies, Inc.",SEDG,,SEDG,USD,NASDAQ,Kaufen,18.10.19,85.17,Second_line
+StitchFix,SFIX,,SFIX,USD,NASDAQ,Kaufen,20.09.19,19.64,Second_line
+"Charlotte's Web Holdings, Inc.",CWBHF,,CWBHF,USD,OTC,Verkauft,16.08.19,,Second_line
+The Bank of N.T. Butterfield & Son,NTB,,NTB,USD,NYSE,Kaufen,19.07.19,29.2,Second_line
+NIC Inc.,EGOV,,EGOV,USD,NASDAQ,Verkauft,19.07.19,,Second_line
+Upwork Inc.,UPWK,,UPWK,USD,NASDAQ,Basisaktie,21.06.19,15.51,Second_line
+"HealthEquity, Inc.",HQY,,HQY,USD,NASDAQ,Kaufen,21.06.19,67.24,Second_line
+"Editas Medicine, Inc.",EDIT,,EDIT,USD,NASDAQ,Kaufen,17.05.19,22.5,Second_line
+Grand Canyon Education,LOPE,,LOPE,USD,NASDAQ,Kaufen,17.05.19,114.11,Second_line
+"Ollie's Bargain Outlet Holdings, Inc.",OLLI,,OLLI,USD,NASDAQ,Kaufen,19.04.19,92.77,Second_line
+NV5 Global,NVEE,,NVEE,USD,NASDAQ,Kaufen,19.04.19,61.43,Second_line
+"Texas Roadhouse, Inc.",TXRH,,TXRH,USD,NASDAQ,Kaufen,22.03.19,58.68,Second_line
+Appian,APPN,,APPN,USD,NASDAQ,Basisaktie,22.03.19,34.71,Second_line
+Tucows,TCX,,TCX,USD,NASDAQ,Kaufen,22.02.19,77.02,Second_line
+"Walker & Dunlop, Inc.",WD,,WD,USD,NYSE,Aktuelle Kaufchance,22.02.19,54.17,Second_line
+Brookfield Asset Management Inc.,BAM,,BAM,USD,NYSE,Kaufen,18.01.19,N/A,Second_line
+"BrightView Holdings, Inc.",BV,,BV,USD,NYSE,Verkauft,18.01.19,,Second_line
+LCI Industries,LCII,,LCII,USD,NYSE,Kaufen,21.12.18,57.19,Second_line
+Trupanion,TRUP,,TRUP,USD,NASDAQ,Aktuelle Kaufchance,21.12.18,23.63,Second_line
+Uxin,UXIN,,UXIN,USD,NASDAQ,Verkauft,16.11.18,,Second_line
+"Axos Financial, Inc.",AX,,AX,USD,NYSE,Kaufen,16.11.18,29.7,Second_line
+Eagle Materials Inc.,EXP,,EXP,USD,NYSE,Kaufen,19.10.18,72.07,Second_line
+"Hawaiian Holdings, Inc.",HA,,HA,USD,NASDAQ,Halten,19.10.18,33.4,Second_line
+National Beverage Corp.,FIZZ,,FIZZ,USD,NASDAQ,Verkauft,21.09.18,,Second_line
+Instructure,INST,,INST,USD,NYSE,Verkauft,21.09.18,,Second_line
+"Chuy's Holdings, Inc.",CHUY,,CHUY,USD,NASDAQ,Verkauft,17.08.18,,Second_line
+TPI Composites,TPIC,,TPIC,USD,NASDAQ,Kaufen,17.08.18,26.86,Second_line
+Appian,APPN,,APPN,USD,NASDAQ,Basisaktie,20.07.18,33.11,Second_line
+StitchFix,SFIX,,SFIX,USD,NASDAQ,Kaufen,20.07.18,34.38,Second_line
+"Paycom Software, Inc.",PAYC,,PAYC,USD,NYSE,Kaufen,15.06.18,112.62,Second_line
+Darling Ingredients Inc.,DAR,,DAR,USD,NYSE,Kaufen,15.06.18,19.49,Second_line
+"Healthcare Services Group, Inc.",HCSG,,HCSG,USD,NASDAQ,Kaufen,11.05.18,34.5,Second_line
+Sailpoint Technologies,SAIL,,SAIL,USD,NYSE,Kaufen,11.05.18,23.27,Second_line
+"MINDBODY, Inc.",MB,,MB,USD,NASDAQ,Verkauft,13.04.18,,Second_line
+"Ellie Mae, Inc.",ELLI,,ELLI,USD,NYSE,Verkauft,13.04.18,,Second_line
+Pool Corporation,POOL,,POOL,USD,NASDAQ,Kaufen,09.03.18,140.86,Second_line
+Trip.com Group Limited,TCOM,,TCOM,USD,NASDAQ,Verkauft,09.03.18,,Second_line
+GrubHub Inc.,GRUB,,GRUB,USD,NYSE,Verkauft,09.02.18,,Second_line
+Redfin Corporation,RDFN,,RDFN,USD,NASDAQ,Basisaktie,09.02.18,22.08,Second_line
+"Healthcare Services Group, Inc.",HCSG,,HCSG,USD,NASDAQ,Kaufen,12.01.18,46.88,Second_line
+Banco Latinoamericano de Comercio Exterior,BLX,,BLX,USD,NYSE,Verkauft,12.01.18,,Second_line
+"Alarm.Com Holdings, Inc.",ALRM,,ALRM,USD,NASDAQ,Kaufen,15.12.17,37.16,Second_line
+Boston Omaha Corporation,BOMN,,BOMN,USD,NASDAQ,Kaufen,15.12.17,25.03,Second_line
+Q2 Holdings,QTWO,,QTWO,USD,NYSE,Kaufen,10.11.17,43.05,Second_line
+"Spirit Airlines, Inc.",SAVE,,SAVE,USD,NYSE,Verkauft,10.11.17,,Second_line
+"EPAM Systems, Inc.",EPAM,,EPAM,USD,NYSE,Kaufen,27.10.17,90.95,Second_line
+MarketAxess Holdings Inc.,MKTX,,MKTX,USD,NASDAQ,Kaufen,27.10.17,171,Second_line
+"AppFolio, Inc.",APPF,,APPF,USD,NASDAQ,Kaufen,26.10.17,45.75,Second_line
+"Grupo Aeroportuario del Sureste, S. A. B. de C. V.",ASR,,ASR,USD,NYSE,Kaufen,25.10.17,171.15,Second_line
+Brookfield Infrastructure Partners L.P.,BIP,,BIP,USD,NYSE,Verkauft,25.10.17,,Second_line
+Absolute Software Corporation,ABST,TO,ABST.TO,CAD,TSX,Kaufen,30.08.21,15.21,Second_line
+SILK Laser Australia Limited,SLA,AX,SLA.AX,AUD,ASX,Kaufen,26.07.21,3.96,Second_line
+Marley Spoon AG,MMM,AX,MMM.AX,AUD,ASX,Kaufen,28.06.21,2.82,Second_line
+Porvair plc,PRV,L,PRV.L,GBp,LSE,Kaufen,31.05.21,572.25,Second_line
+MTY Food Group Inc.,MTY,TO,MTY.TO,CAD,TSX,Kaufen,26.04.21,52.98,Second_line
+Frontier Developments plc,FDEV,L,FDEV.L,GBp,LSE,Aktuelle Kaufchance,29.03.21,2660,Second_line
+Haivision Systems Inc.,HAI,TO,HAI.TO,CAD,TSX,Kaufen,01.03.21,10.61,Second_line
+Nuix Pty Ltd,NXL,AX,NXL.AX,AUD,ASX,Verkauft,25.01.21,,Second_line
+Andlauer Healthcare Group Inc.,AND,TO,AND.TO,CAD,TSX,Kaufen,28.12.20,38.94,Second_line
+Volpara Health Technologies Limited,VHT,AX,VHT.AX,AUD,ASX,Kaufen,30.11.20,1.39,Second_line
+Adairs Limited,ADH,AX,ADH.AX,AUD,ASX,Kaufen,26.10.20,3.43,Second_line
+IPH Limited,IPH,AX,IPH.AX,AUD,ASX,Kaufen,28.09.20,7.07,Second_line
+CRH Medical Corporation,CRH,TO,CRH.TO,CAD,TSX,Verkauft,31.08.20,,Second_line
+Mach7 Technologies Limited,M7T,AX,M7T.AX,AUD,ASX,Kaufen,27.07.20,0.99,Second_line
+Bioventix PLC,BVXP,L,BVXP.L,GBp,LSE,Kaufen,29.06.20,4097.85,Second_line
+iomart Group plc,IOM,L,IOM.L,GBp,LSE,Kaufen,25.05.20,319.22,Second_line
+Restore plc,RST,L,RST.L,GBp,LSE,Kaufen,27.04.20,373.14,Second_line
+FINEOS Corporation Holdings plc,FCL,AX,FCL.AX,AUD,ASX,Kaufen,23.03.20,2.45,Second_line
+Andlauer Healthcare Group Inc.,AND,TO,AND.TO,CAD,TSX,Kaufen,02.03.20,23.26,Second_line
+Daejan Holdings plc,DJAN,L,DJAN.L,GBp,LSE,Verkauft,27.01.20,,Second_line
+Treatt,TET,L,TET.L,GBp,LSE,Kaufen,16.12.19,459.96,Second_line
+Frontier Digital Ventures Limited,FDV,AX,FDV.AX,AUD,ASX,Kaufen,25.11.19,0.78,Second_line
+Transcontinental Inc.,TCL.A,TO,TCL.A.TO,AUD,ASX,Kaufen,18.10.19,13.86,Second_line
+Marlowe plc,MRL,L,MRL.L,GBp,LSE,Kaufen,20.09.19,408,Second_line
+Jumbo Interactive Limited,JIN,AX,JIN.AX,AUD,ASX,Kaufen,16.08.19,16.04,Second_line
+"Upstart Holdings, Inc.",UPST,,UPST,USD,,,23.09.21,336.34,Rule_breaker
+Roblox Corporation,RBLX,,RBLX,USD,,,09.09.21,86.35,Rule_breaker
+"CrowdStrike Holdings, Inc.",CRWD,,CRWD,USD,,,26.08.21,278.77,Rule_breaker
+Peloton Interactive,PTON,,PTON,USD,,,07.08.21,124.06,Rule_breaker
+Planet Fitness,PLNT,,PLNT,USD,,,04.08.21,86.22,Rule_breaker
+"Cloudflare, Inc.",NET,,NET,USD,,,25.07.21,122.23,Rule_breaker
+Bumble Inc.,BMBL,,BMBL,USD,,,22.07.21,52.52,Rule_breaker
+"Cloudflare, Inc.",NET,,NET,USD,,,24.06.21,104.57,Rule_breaker
+Datadog,DDOG,,DDOG,USD,,,10.06.21,94.5,Rule_breaker
+Snowflake Inc.,SNOW,,SNOW,USD,,,27.05.21,245.15,Rule_breaker
+The Trade Desk,TTD,,TTD,USD,,Starter,13.05.21,49.35,Rule_breaker
+"Coupang, Inc.",CPNG,,CPNG,USD,,,22.04.21,42.81,Rule_breaker
+"GoodRx Holdings, Inc.",GDRX,,GDRX,USD,,Now,25.03.21,36.52,Rule_breaker
+Teladoc Health,TDOC,,TDOC,USD,,Starter,11.03.21,198.77,Rule_breaker
+Sleep Number Corp,SNBR,,SNBR,USD,,,25.02.21,136.03,Rule_breaker
+Axon Enterprise,AXON,,AXON,USD,,Starter,11.02.21,203.51,Rule_breaker
+Moderna Inc.,MRNA,,MRNA,USD,,Now,28.01.21,159.55,Rule_breaker
+Wayfair,W,,W,USD,,,14.01.21,329.87,Rule_breaker
+"fuboTV, Inc.",FUBO,,FUBO,USD,,,17.12.20,35.32,Rule_breaker
+Repligen,RGEN,,RGEN,USD,,,11.12.20,206.57,Rule_breaker
+CoStar Group,CSGP,,CSGP,USD,,,03.12.20,61.29,Rule_breaker
+Chegg,CHGG,,CHGG,USD,,,25.11.20,72.57,Rule_breaker
+HubSpot,HUBS,,HUBS,USD,,Starter,06.11.20,200.86,Rule_breaker
+Unity Software Inc.,U,,U,USD,,,22.10.20,100.96,Rule_breaker
+Redfin,RDFN,,RDFN,USD,,,09.10.20,50.26,Rule_breaker
+Logitech International,LOGI,,LOGI,USD,,,24.09.20,72.49,Rule_breaker
+Lululemon Athletica,LULU,,LULU,USD,,,07.09.20,315.2,Rule_breaker
+DocuSign,DOCU,,DOCU,USD,,Now,04.09.20,90.63,Rule_breaker
+Intuitive Surgical,ISRG,,ISRG,USD,,,01.09.20,585.79,Rule_breaker
+"BlackLine, Inc.",BL,,BL,USD,,,27.08.20,84.83,Rule_breaker
+Etsy,ETSY,,ETSY,USD,,,13.08.20,128.73,Rule_breaker
+Equinix,EQIX,,EQIX,USD,,,10.08.20,811.84,Rule_breaker
+Wingstop,WING,,WING,USD,,,23.07.20,132.95,Rule_breaker
+STAAR Surgical,STAA,,STAA,USD,,,25.06.20,60.01,Rule_breaker
+Teladoc Health Corporate Action Details,TDOC,,TDOC,USD,,Starter,28.05.20,89.83,Rule_breaker
+Quidel,QDEL,,QDEL,USD,,,14.05.20,185.73,Rule_breaker
+"Beyond Meat, Inc.",BYND,,BYND,USD,,,23.04.20,99.78,Rule_breaker
+Quidel,QDEL,,QDEL,USD,,,26.03.20,88.97,Rule_breaker
+Pinterest,PINS,,PINS,USD,,Now,12.03.20,69.7,Rule_breaker
+Sea Limited,SE,,SE,USD,,,27.02.20,45.07,Rule_breaker
+NextEra Energy,NEE,,NEE,USD,,Starter,13.02.20,66.47,Rule_breaker
+Pinterest,PINS,,PINS,USD,,Now,23.01.20,22.61,Rule_breaker
+Freshpet,FRPT,,FRPT,USD,,,19.12.19,57.84,Rule_breaker
+Teladoc Health,TDOC,,TDOC,USD,,Starter,09.12.19,69.05,Rule_breaker
+Peloton Interactive,PTON,,PTON,USD,,,27.11.19,32.16,Rule_breaker
+Etsy,ETSY,,ETSY,USD,,,14.11.19,41.84,Rule_breaker
+Roku,ROKU,,ROKU,USD,,Now,07.11.19,104.54,Rule_breaker
+Five Below,FIVE,,FIVE,USD,,,04.11.19,133.55,Rule_breaker
+Datadog,DDOG,,DDOG,USD,,,24.10.19,32.5,Rule_breaker
+Novocure,NVCR,,NVCR,USD,,Starter,10.10.19,75.49,Rule_breaker
+Skechers,SKX,,SKX,USD,,,01.10.19,24.9,Rule_breaker
+Salesforce.com,CRM,,CRM,USD,,,05.09.19,156.31,Rule_breaker
+Fastly,FSLY,,FSLY,USD,,,22.08.19,24.53,Rule_breaker
+New Oriental Education & Technology Group,EDU,,EDU,USD,,Hold,08.08.19,10.42,Rule_breaker
+Repligen,RGEN,,RGEN,USD,,,25.07.19,90.9,Rule_breaker
+Novocure,NVCR,,NVCR,USD,,Starter,27.06.19,60.85,Rule_breaker
+Zillow Group (A shares),ZG,,ZG,USD,,,13.06.19,45.35,Rule_breaker
+Uber Technologies,UBER,,UBER,USD,,,23.05.19,40.47,Rule_breaker
+Insulet,PODD,,PODD,USD,,,12.05.19,184.23,Rule_breaker
+ShockWave Medical,SWAV,,SWAV,USD,,,25.04.19,38.54,Rule_breaker
+Xilinx,XLNX,,XLNX,USD,,,28.03.19,123.34,Rule_breaker
+Roku,ROKU,,ROKU,USD,,Now,14.03.19,61.82,Rule_breaker
+Redfin,RDFN,,RDFN,USD,,,28.02.19,19.97,Rule_breaker
+Guardant Health,GH,,GH,USD,,,14.02.19,48.87,Rule_breaker
+NextEra Energy,NEE,,NEE,USD,,Starter,24.01.19,42.47,Rule_breaker
+Bilibili,BILI,,BILI,USD,,,20.12.18,14.63,Rule_breaker
+MongoDB,MDB,,MDB,USD,,,07.12.18,57.88,Rule_breaker
+Guardant Health,GH,,GH,USD,,,21.11.18,37.16,Rule_breaker
+Electronic Arts,EA,,EA,USD,,,10.11.18,103.09,Rule_breaker
+Upwork,UPWK,,UPWK,USD,,,25.10.18,19.5,Rule_breaker
+HubSpot,HUBS,,HUBS,USD,,Starter,05.10.18,117.65,Rule_breaker
+GoDaddy,GDDY,,GDDY,USD,,,27.09.18,83.2,Rule_breaker
+Twilio,TWLO,,TWLO,USD,,,13.09.18,85.31,Rule_breaker
+Yandex,YNDX,,YNDX,USD,,,08.09.18,31.82,Rule_breaker
+Stitch Fix,SFIX,,SFIX,USD,,,23.08.18,36.57,Rule_breaker
+Upwork,UPWK,,UPWK,USD,,,11.08.18,18.07,Rule_breaker
+DocuSign,DOCU,,DOCU,USD,,Now,26.07.18,55.51,Rule_breaker
+Baozun,BZUN,,BZUN,USD,,,28.06.18,54.55,Rule_breaker
+iQiyi,IQ,,IQ,USD,,Hold,14.06.18,40.51,Rule_breaker
+Zendesk,ZEN,,ZEN,USD,,,12.06.18,59.88,Rule_breaker
+Salesforce.com Corporate Action Details,CRM,,CRM,USD,,,24.05.18,88.29,Rule_breaker
+Axon Enterprise,AXON,,AXON,USD,,Starter,25.04.18,43,Rule_breaker
+iQiyi,IQ,,IQ,USD,,Hold,25.04.18,18.01,Rule_breaker
+Bristol Myers Squibb Corporate Action Details,BMY,,BMY,USD,,,28.03.18,44.07,Rule_breaker
+Nutanix,NTNX,,NTNX,USD,,,28.03.18,47.94,Rule_breaker
+MongoDB,MDB,,MDB,USD,,,28.02.18,32.21,Rule_breaker
+Palo Alto Networks,PANW,,PANW,USD,,,28.02.18,173.37,Rule_breaker
+Alteryx,AYX,,AYX,USD,,Hold,24.01.18,27.83,Rule_breaker
+AnaptysBio,ANAB,,ANAB,USD,,,24.01.18,116.91,Rule_breaker
+Editas Medicine,EDIT,,EDIT,USD,,,20.12.17,24.89,Rule_breaker
+Camping World Holdings,CWH,,CWH,USD,,,22.11.17,35.61,Rule_breaker
+Teladoc Health,TDOC,,TDOC,USD,,Starter,22.11.17,34,Rule_breaker
+Abiomed,ABMD,,ABMD,USD,,,25.10.17,171.37,Rule_breaker
+Editas Medicine,EDIT,,EDIT,USD,,,27.09.17,19.93,Rule_breaker
+Tencent Holdings,TCEHY,,TCEHY,USD,,,27.09.17,42.9,Rule_breaker
+Align Technology,ALGN,,ALGN,USD,,,23.08.17,172.85,Rule_breaker
+HubSpot,HUBS,,HUBS,USD,,Starter,23.08.17,69.4,Rule_breaker
+First Solar,FSLR,,FSLR,USD,,,26.07.17,45.44,Rule_breaker
+Live Nation Entertainment,LYV,,LYV,USD,,,26.07.17,36.7,Rule_breaker
+Bluebird Bio,BLUE,,BLUE,USD,,,28.06.17,109.1,Rule_breaker
+Hello Group,MOMO,,MOMO,USD,,Hold,24.05.17,35.32,Rule_breaker
+The Trade Desk,TTD,,TTD,USD,,Starter,24.05.17,5.15,Rule_breaker
+Abiomed,ABMD,,ABMD,USD,,,26.04.17,130.08,Rule_breaker
+MercadoLibre,MELI,,MELI,USD,,,26.04.17,227.91,Rule_breaker
+Live Nation Entertainment,LYV,,LYV,USD,,,22.03.17,28.75,Rule_breaker
+Veeva Systems,VEEV,,VEEV,USD,,,22.03.17,48.99,Rule_breaker
+The Trade Desk,TTD,,TTD,USD,,Starter,22.02.17,3.43,Rule_breaker
+Trex,TREX,,TREX,USD,,,22.02.17,16.45,Rule_breaker
+Twilio,TWLO,,TWLO,USD,,,25.01.17,29.05,Rule_breaker
+Twitter,TWTR,,TWTR,USD,,,25.01.17,16.73,Rule_breaker
+Camping World Holdings,CWH,,CWH,USD,,,21.12.16,26.54,Rule_breaker
+Impinj,PI,,PI,USD,,,21.12.16,38.33,Rule_breaker
+Etsy,ETSY,,ETSY,USD,,,23.11.16,13.12,Rule_breaker
+Ubiquiti Inc.,UI,,UI,USD,,,23.11.16,55.49,Rule_breaker
+2U,TWOU,,TWOU,USD,,,26.10.16,35.74,Rule_breaker
+ResMed,RMD,,RMD,USD,,,26.10.16,56.72,Rule_breaker
+Atlassian,TEAM,,TEAM,USD,,,28.09.16,30,Rule_breaker
+Chipotle Mexican Grill,CMG,,CMG,USD,,,28.09.16,418.31,Rule_breaker
+Gartner,IT,,IT,USD,,,24.08.16,90.11,Rule_breaker
+Under Armour (C Shares),UA,,UA,USD,,Hold,24.08.16,38.88,Rule_breaker
+2U,TWOU,,TWOU,USD,,,27.07.16,35.25,Rule_breaker
+MicroStrategy,MSTR,,MSTR,USD,,,27.07.16,182.98,Rule_breaker
+Electronic Arts,EA,,EA,USD,,,22.06.16,74.43,Rule_breaker
+NuVasive,NUVA,,NUVA,USD,,,22.06.16,57.79,Rule_breaker
+NetEase,NTES,,NTES,USD,,,25.05.16,32.07,Rule_breaker
+Axos Financial,AX,,AX,USD,,,27.04.16,19.43,Rule_breaker
+Broadcom Ltd Corporate Action Details,AVGO,,AVGO,USD,,,27.04.16,128.05,Rule_breaker
+Shopify,SHOP,,SHOP,USD,,,23.03.16,26.2,Rule_breaker
+Workday,WDAY,,WDAY,USD,,,23.03.16,71.26,Rule_breaker
+Shopify,SHOP,,SHOP,USD,,,24.02.16,21.02,Rule_breaker
+Intercontinental Exchange,ICE,,ICE,USD,,,27.01.16,47.06,Rule_breaker
+Planet Fitness,PLNT,,PLNT,USD,,,27.01.16,11.93,Rule_breaker
+CyberArk Software,CYBR,,CYBR,USD,,,25.11.15,44.42,Rule_breaker
+Take-Two Interactive,TTWO,,TTWO,USD,,Starter,25.11.15,35.62,Rule_breaker
+Axon Enterprise,AXON,,AXON,USD,,Starter,28.10.15,23.48,Rule_breaker
+Biogen Corporate Action Details,BIIB,,BIIB,USD,,,28.10.15,,Rule_breaker
+Skechers,SKX,,SKX,USD,,,23.09.15,47.57,Rule_breaker
+Wayfair,W,,W,USD,,,26.08.15,43.05,Rule_breaker
+NXP Semiconductors,NXPI,,NXPI,USD,,,22.07.15,86.81,Rule_breaker
+Skyworks Solutions,SWKS,,SWKS,USD,,,22.07.15,90.68,Rule_breaker
+Dave & Busters Entertainment,PLAY,,PLAY,USD,,,24.06.15,35.95,Rule_breaker
+Cerner,CERN,,CERN,USD,,,22.04.15,70.46,Rule_breaker
+Euronet Worldwide,EEFT,,EEFT,USD,,,25.03.15,56.56,Rule_breaker
+Baidu,BIDU,,BIDU,USD,,,25.02.15,203.53,Rule_breaker
+Bluebird Bio,BLUE,,BLUE,USD,,,28.01.15,94.82,Rule_breaker
+MercadoLibre,MELI,,MELI,USD,,,23.12.14,125.11,Rule_breaker
+Zendesk,ZEN,,ZEN,USD,,,23.12.14,24.55,Rule_breaker
+Arista Networks,ANET,,ANET,USD,,,25.11.14,73.74,Rule_breaker
+SS&C Technologies Holdings,SSNC,,SSNC,USD,,,25.11.14,23.97,Rule_breaker
+Veeva Systems,VEEV,,VEEV,USD,,,24.09.14,28.83,Rule_breaker
+Proto Labs,PRLB,,PRLB,USD,,,27.08.14,76.05,Rule_breaker
+MicroStrategy,MSTR,,MSTR,USD,,,23.07.14,138.37,Rule_breaker
+Align Technology,ALGN,,ALGN,USD,,,25.06.14,54.05,Rule_breaker
+Insulet,PODD,,PODD,USD,,,28.05.14,36.45,Rule_breaker
+Splunk,SPLK,,SPLK,USD,,,28.05.14,48.88,Rule_breaker
+Five Below,FIVE,,FIVE,USD,,,23.04.14,38.56,Rule_breaker
+Palo Alto Networks,PANW,,PANW,USD,,,23.04.14,69.05,Rule_breaker
+NuVasive,NUVA,,NUVA,USD,,,26.03.14,37.23,Rule_breaker
+Zillow Group (A shares),ZG,,ZG,USD,,,26.02.14,,Rule_breaker
+Ubiquiti Inc.,UI,,UI,USD,,,22.01.14,42.43,Rule_breaker
+Twitter,TWTR,,TWTR,USD,,,18.12.13,55.51,Rule_breaker
+Ionis Pharmaceuticals,IONS,,IONS,USD,,,27.11.13,39.28,Rule_breaker
+Middleby,MIDD,,MIDD,USD,,,23.10.13,74.88,Rule_breaker
+Tesla Corporate Action Details,TSLA,,TSLA,USD,,,23.10.13,105.19,Rule_breaker
+CoStar Group,CSGP,,CSGP,USD,,,25.09.13,16.48,Rule_breaker
+Alnylam Pharmaceuticals,ALNY,,ALNY,USD,,,24.07.13,44.95,Rule_breaker
+Chart Industries,GTLS,,GTLS,USD,,,26.06.13,91.36,Rule_breaker
+Sirius XM Holdings Inc. Corporate Action Details,SIRI,,SIRI,USD,,,26.06.13,12.02,Rule_breaker
+Axos Financial,AX,,AX,USD,,,22.05.13,9.81,Rule_breaker
+Seagen Inc.,SGEN,,SGEN,USD,,,24.04.13,36.53,Rule_breaker
+Equinix,EQIX,,EQIX,USD,,,27.03.13,172.65,Rule_breaker
+Middleby,MIDD,,MIDD,USD,,,27.03.13,50.19,Rule_breaker
+Bristol Myers Squibb Corporate Action Details,BMY,,BMY,USD,,,27.02.13,25.18,Rule_breaker
+Intuitive Surgical,ISRG,,ISRG,USD,,,23.01.13,189.02,Rule_breaker
+Axos Financial,AX,,AX,USD,,,21.11.12,6.52,Rule_breaker
+MasTec,MTZ,,MTZ,USD,,,21.11.12,22.54,Rule_breaker
+Facebook,FB,,FB,USD,,,24.10.12,23.23,Rule_breaker
+Yandex,YNDX,,YNDX,USD,,,26.09.12,23.35,Rule_breaker
+Facebook,FB,,FB,USD,,,25.07.12,29.34,Rule_breaker
+Trex,TREX,,TREX,USD,,,25.07.12,3.38,Rule_breaker
+Proto Labs,PRLB,,PRLB,USD,,,27.06.12,30.02,Rule_breaker
+Zillow Group (A shares),ZG,,ZG,USD,,,25.04.12,,Rule_breaker
+Intuitive Surgical,ISRG,,ISRG,USD,,,25.01.12,151.89,Rule_breaker
+MercadoLibre,MELI,,MELI,USD,,,25.01.12,86.09,Rule_breaker
+Salesforce.com,CRM,,CRM,USD,,,21.12.11,24.76,Rule_breaker
+Tesla,TSLA,,TSLA,USD,,,23.11.11,6.29,Rule_breaker
+Zillow Group (A shares),ZG,,ZG,USD,,,28.09.11,,Rule_breaker
+Emergent BioSolutions,EBS,,EBS,USD,,,27.04.11,22.28,Rule_breaker
+NXP Semiconductors,NXPI,,NXPI,USD,,,23.03.11,26.03,Rule_breaker
+Lululemon Athletica,LULU,,LULU,USD,,,22.12.10,35.85,Rule_breaker
+Universal Display,OLED,,OLED,USD,,,23.06.10,17.46,Rule_breaker
+New Oriental Education & Technology Group,EDU,,EDU,USD,,Hold,28.04.10,2.21,Rule_breaker
+Exact Sciences Corporate Action Details,EXAS,,EXAS,USD,,,24.02.10,21.75,Rule_breaker
+LivePerson,LPSN,,LPSN,USD,,,24.02.10,6.73,Rule_breaker
+American Tower,AMT,,AMT,USD,,,23.12.09,35.83,Rule_breaker
+FactSet Research Systems,FDS,,FDS,USD,,,19.08.09,47.86,Rule_breaker
+Alphabet (C shares),GOOG,,GOOG,USD,,Starter,15.07.09,,Rule_breaker
+Copart,CPRT,,CPRT,USD,,,15.04.09,7.54,Rule_breaker
+Open Text,OTEX,,OTEX,USD,,,18.03.09,7.1,Rule_breaker
+MercadoLibre,MELI,,MELI,USD,,,18.02.09,14.13,Rule_breaker
+Monster Beverage,MNST,,MNST,USD,,,21.01.09,5.56,Rule_breaker
+Salesforce.com,CRM,,CRM,USD,,,21.01.09,6.89,Rule_breaker
+Intuitive Surgical,ISRG,,ISRG,USD,,,19.11.08,40.36,Rule_breaker
+AeroVironment,AVAV,,AVAV,USD,,,20.08.08,32.95,Rule_breaker
+Baidu,BIDU,,BIDU,USD,,,20.08.08,32.12,Rule_breaker
+Alphabet (C shares),GOOG,,GOOG,USD,,Starter,21.05.08,,Rule_breaker
+VMware,VMW,,VMW,USD,,,21.05.08,54.32,Rule_breaker
+IPG Photonics,IPGP,,IPGP,USD,,,19.03.08,13.88,Rule_breaker
+Take-Two Interactive,TTWO,,TTWO,USD,,Starter,19.12.07,18.75,Rule_breaker
+Take-Two Interactive,TTWO,,TTWO,USD,,Starter,19.09.07,16.93,Rule_breaker
+Under Armour (C Shares),UA,,UA,USD,,Hold,19.09.07,,Rule_breaker
+Vertex Pharmaceuticals,VRTX,,VRTX,USD,,,18.07.07,29.15,Rule_breaker
+BioMarin Pharmaceutical,BMRN,,BMRN,USD,,,16.05.07,18.16,Rule_breaker
+IPG Photonics,IPGP,,IPGP,USD,,,18.04.07,20.52,Rule_breaker
+Exelixis,EXEL,,EXEL,USD,,,21.03.07,10,Rule_breaker
+Chipotle Mexican Grill,CMG,,CMG,USD,,,17.01.07,60.6,Rule_breaker
+Blackbaud,BLKB,,BLKB,USD,,,15.11.06,22.99,Rule_breaker
+Baidu,BIDU,,BIDU,USD,,,18.10.06,8.34,Rule_breaker
+Under Armour (C Shares),UA,,UA,USD,,Hold,19.07.06,,Rule_breaker
+Intuitive Surgical,ISRG,,ISRG,USD,,,15.02.06,34.06,Rule_breaker
+Exelixis,EXEL,,EXEL,USD,,,19.10.05,7.34,Rule_breaker
+Intuitive Surgical,ISRG,,ISRG,USD,,,21.09.05,23.23,Rule_breaker
+Universal Display,OLED,,OLED,USD,,,18.05.05,8.93,Rule_breaker
+Intuitive Surgical,ISRG,,ISRG,USD,,,16.03.05,14.72,Rule_breaker
+Intercontinental Exchange Corporate Action Details,ICE,,ICE,USD,,,19.01.05,11.27,Rule_breaker
+Vertex Pharmaceuticals,VRTX,,VRTX,USD,,,19.01.05,10.48,Rule_breaker
+NetEase,NTES,,NTES,USD,,,15.12.04,2.21,Rule_breaker
