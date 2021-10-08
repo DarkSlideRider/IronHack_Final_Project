@@ -208,8 +208,9 @@ def data_load_user_input():
         print()
         print(f"{comp_match.loc[1:,'shortName'].values[0]} is in cluster" 
               f" {comp_match.loc[1:,'cluster'].values[0]:.0f}"
-              #f"sector {comp_match.loc[1:,'sector'].values[0]} "
-              f" and was ranked on overall position {comp_match.loc[1:,'Rank_CFoEV_RoA'].values[0]:.0f}.")
+              #f"sector {comp_match.loc[1:,'sector'].values[0]} " 
+              f" and was ranked on overall position {comp_match.loc[1:,'Rank_CFoEV_RoA'].values[0]:.0f}"
+              f" out of {len(df)} companies.")
         
         time.sleep(1)
         display(comp_match)
@@ -241,7 +242,8 @@ def data_load_user_input():
             print(f"{comp_match.loc[1:,'shortName'].values[0]} is in cluster"
                   f"{comp_match.loc[1:,'cluster'].values[0]:.0f}"
                   #f"sector {comp_match.loc[1:,'sector'].values[0]} "
-                  f" and was ranked on overall position {comp_match.loc[1:,'Rank_CFoEV_RoA'].values[0]:.0f}.")
+                  f" and was ranked on overall position {comp_match.loc[1:,'Rank_CFoEV_RoA'].values[0]:.0f}"
+                  f" out of {len(df)} companies.")
             
             time.sleep(1)
             display(comp_match)
