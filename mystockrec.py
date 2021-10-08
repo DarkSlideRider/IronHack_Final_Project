@@ -1,4 +1,5 @@
 from random import randint
+import time
 from time import sleep
 import datetime
 import yfinance as yf
@@ -171,3 +172,180 @@ def fin(df):
         #df_cashflow.to_excel(writer, 'Cashflows', index=False)
         #df_financials.to_excel(writer, 'Financials', index=False)
         #writer.save()
+
+
+# USER INPUT PART
+# Data load for user input
+def data_load_user_input():
+    df = xlsx_df('df__734_2021.10.07 00_06_06.xlsx')
+    #display(df.loc[0:3,'Unnamed: 0'])
+    #df.info()
+    #df.head()
+
+    # Clean data set
+    df['shortName'] = df['shortName'].astype('str')
+    df['shortName'] = df['shortName'].apply(lambda x: x.upper().translate({ord(c): "" for c in "!?/[]|{}.:()'\""}))
+    df.drop(['Unnamed: 0','Unnamed: 0.1'], axis=1, inplace=True)
+
+    # Select columns
+    df = df[['shortName','symbol','cluster','sector','Rank_CFoEV_RoA',
+             'revenueGrowth','earningsGrowth','SalesoEV_in_%','beta']]
+    #return df
+    
+    # Start of user input part
+    br = '\n' # if needed variable for string literal line break, put {nl} if new line is needed
+    shortName_input = input(" What company do you want to check? ")
+    shortName_input = shortName_input.upper()
+    comp_match = df[df['shortName'].str.contains(shortName_input)]
+    if len(comp_match) == 1:
+        print()
+        print(f"{comp_match.loc[1:,'shortName'].values[0]} was found in the database.")
+        time.sleep(1)
+        print()
+        print("Let's take a closer look.")
+        
+        time.sleep(1)
+        print()
+        print(f"{comp_match.loc[1:,'shortName'].values[0]} is in cluster" 
+              f" {comp_match.loc[1:,'cluster'].values[0]:.0f}"
+              #f"sector {comp_match.loc[1:,'sector'].values[0]} "
+              f" and was ranked on overall position {comp_match.loc[1:,'Rank_CFoEV_RoA'].values[0]:.0f}.")
+        
+        time.sleep(1)
+        display(comp_match)
+        
+        time.sleep(1)
+        print()
+        print(f"Top ranked companies in cluster {comp_match.loc[1:,'cluster'].values[0]:.0f} are:")
+        #display(df[df['cluster'].isin([int(comp_match.loc[1:,'cluster'])])].nsmallest(10,['Rank_CFoEV_RoA']))
+        
+        df_usr = df[df['cluster'].isin([int(comp_match.loc[1:,'cluster'])])].nsmallest(10,['Rank_CFoEV_RoA'])
+        df_usr = df_usr.append(comp_match)
+        df_usr.drop_duplicates(inplace=True)
+        df_usr = df_usr.nsmallest(11,['Rank_CFoEV_RoA'])
+        display(df_usr)
+    elif len(comp_match) > 1:
+        print()
+        print(f"Several companies were found.")
+        
+        time.sleep(1)
+        display(comp_match)
+        symbol_input = input(f"Please select only one by typing the symbol of the company.")
+        symbol_input = symbol_input.upper()
+        try:
+            comp_match = df.loc[df['symbol'] == symbol_input]
+            print()
+            print(f"{comp_match.loc[1:,'shortName'].values[0]} was found in the database.")
+            
+            time.sleep(1)
+            print(f"{comp_match.loc[1:,'shortName'].values[0]} is in cluster"
+                  f"{comp_match.loc[1:,'cluster'].values[0]:.0f}"
+                  #f"sector {comp_match.loc[1:,'sector'].values[0]} "
+                  f" and was ranked on overall position {comp_match.loc[1:,'Rank_CFoEV_RoA'].values[0]:.0f}.")
+            
+            time.sleep(1)
+            display(comp_match)
+            
+            time.sleep(1)
+            print()
+            print(f"Top ranked companies in cluster {comp_match.loc[1:,'cluster'].values[0]} are:")
+            #display(df[df['cluster'].isin([int(comp_match.loc[1:,'cluster'])])].nsmallest(10,['Rank_CFoEV_RoA']))
+            
+            df_usr = df[df['cluster'].isin([int(comp_match.loc[1:,'cluster'])])].nsmallest(10,['Rank_CFoEV_RoA'])
+            df_usr = df_usr.append(comp_match)
+            df_usr.drop_duplicates(inplace=True)
+            df_usr = df_usr.nsmallest(11,['Rank_CFoEV_RoA'])
+            display(df_usr)
+        except:
+            pass
+    else:
+        print('Sorry, your company is not in the database and has to be downloaded first, try again.')
+        user_try_again = input('Do you want to try again? Type y for yes or n for no')
+        if user_try_again == 'y':
+            get_input()
+        else:
+            print("Thanks for using stock recommender")
+
+    #'EV_calc','EV_52high','EV_52low','SalesoEV_in_%','EBITDAoEV_in_%','CFoEV_in_%','Rank_SalesoEV','Rank_EBITDAoEV','Rank_CFoEV','Rank_RoA','Rank_CFoEV_RoA'
+    #df = df[['sector', 'cluster','fullTimeEmployees', 'city', 'state', 'country', 'industry','EV_calc','EV_52high','EV_52low','SalesoEV_in_%','EBITDAoEV_in_%','CFoEV_in_%','Rank_SalesoEV',
+    # 'Rank_EBITDAoEV','Rank_CFoEV','Rank_RoA','Rank_CFoEV_RoA', 'ebitdaMargins', 'profitMargins', 'grossMargins', 'operatingCashflow', 'revenueGrowth', 'operatingMargins', 'ebitda', 
+    # 'targetLowPrice', 'recommendationKey', 'grossProfits', 'freeCashflow', 'targetMedianPrice', 'currentPrice', 'earningsGrowth', 'returnOnAssets', 'numberOfAnalystOpinions', 
+    # 'targetMeanPrice', 'debtToEquity', 'targetHighPrice', 'totalCash', 'totalDebt', 'totalRevenue', 'financialCurrency', 'recommendationMean', 'exchange', 'shortName', 'longName', 
+    # 'symbol', 'market', 'enterpriseToRevenue', 'enterpriseToEbitda', 'sharesOutstanding', 'sharesShort', 'fundFamily', 'heldPercentInstitutions', 'priceToBook', 'heldPercentInsiders', 
+    # 'beta', 'enterpriseValue', 'earningsQuarterlyGrowth', 'forwardPE', 'sharesShortPriorMonth', 'trailingAnnualDividendYield', 'payoutRatio', 'trailingAnnualDividendRate', 'dividendRate', 
+    # 'currency', 'trailingPE', 'marketCap', 'fiftyTwoWeekHigh', 'fiftyTwoWeekLow']]
+
+# Getting the user input
+def get_input():
+    br = '\n' # if needed variable for string literal line break, put {nl} if new line is needed
+    shortName_input = input(" What company do you want to check? ")
+    shortName_input = shortName_input.upper()
+    comp_match = df[df['shortName'].str.contains(shortName_input)]
+    if len(comp_match) == 1:
+        print()
+        print(f"{comp_match.loc[1:,'shortName'].values[0]} was found in the database.")
+        time.sleep(1)
+        print()
+        print("Let's take a closer look.")
+        
+        time.sleep(1)
+        print()
+        print(f"{comp_match.loc[1:,'shortName'].values[0]} is in cluster" 
+              f" {comp_match.loc[1:,'cluster'].values[0]:.0f}"
+              #f"sector {comp_match.loc[1:,'sector'].values[0]} "
+              f" and was ranked on overall position {comp_match.loc[1:,'Rank_CFoEV_RoA'].values[0]:.0f}.")
+        
+        time.sleep(1)
+        display(comp_match)
+        
+        time.sleep(1)
+        print()
+        print(f"Top ranked companies in cluster {comp_match.loc[1:,'cluster'].values[0]:.0f} are:")
+        #display(df[df['cluster'].isin([int(comp_match.loc[1:,'cluster'])])].nsmallest(10,['Rank_CFoEV_RoA']))
+        
+        df_usr = df[df['cluster'].isin([int(comp_match.loc[1:,'cluster'])])].nsmallest(10,['Rank_CFoEV_RoA'])
+        df_usr = df_usr.append(comp_match)
+        df_usr.drop_duplicates(inplace=True)
+        df_usr = df_usr.nsmallest(11,['Rank_CFoEV_RoA'])
+        display(df_usr)
+    elif len(comp_match) > 1:
+        print()
+        print(f"Several companies were found.")
+        
+        time.sleep(1)
+        display(comp_match)
+        symbol_input = input(f"Please select only one by typing the symbol of the company.")
+        symbol_input = symbol_input.upper()
+        try:
+            comp_match = df.loc[df['symbol'] == symbol_input]
+            print()
+            print(f"{comp_match.loc[1:,'shortName'].values[0]} was found in the database.")
+            
+            time.sleep(1)
+            print(f"{comp_match.loc[1:,'shortName'].values[0]} is in cluster"
+                  f"{comp_match.loc[1:,'cluster'].values[0]:.0f}"
+                  #f"sector {comp_match.loc[1:,'sector'].values[0]} "
+                  f" and was ranked on overall position {comp_match.loc[1:,'Rank_CFoEV_RoA'].values[0]:.0f}.")
+            
+            time.sleep(1)
+            display(comp_match)
+            
+            time.sleep(1)
+            print()
+            print(f"Top ranked companies in cluster {comp_match.loc[1:,'cluster'].values[0]} are:")
+            #display(df[df['cluster'].isin([int(comp_match.loc[1:,'cluster'])])].nsmallest(10,['Rank_CFoEV_RoA']))
+            
+            df_usr = df[df['cluster'].isin([int(comp_match.loc[1:,'cluster'])])].nsmallest(10,['Rank_CFoEV_RoA'])
+            df_usr = df_usr.append(comp_match)
+            df_usr.drop_duplicates(inplace=True)
+            df_usr = df_usr.nsmallest(11,['Rank_CFoEV_RoA'])
+            display(df_usr)
+        except:
+            pass
+    else:
+        print('Sorry, your company is not in the database and has to be downloaded first, try again.')
+        user_try_again = input('Do you want to try again? Type y for yes or n for no')
+        if user_try_again == 'y':
+            get_input()
+        else:
+            print("Thanks for using stock recommender")
